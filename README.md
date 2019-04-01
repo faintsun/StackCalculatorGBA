@@ -27,7 +27,7 @@ This stack calculator is written for the Gameboy Advance and utilizes the mode 4
 - Right: move highlight to the right
 
 ## How to Run
-Open the BirdBounce.GBA file with a Gameboy Advance Emulator. VisualBoyAdvance is recommended.
+Open the StackCalculator.GBA file with a Gameboy Advance Emulator. VisualBoyAdvance is recommended.
 
 ## How to Build
 Requirements:
